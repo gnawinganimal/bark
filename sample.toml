@@ -1,0 +1,12 @@
+
+name = "Sample Calendar"
+desc = "This is a sample calender!"
+
+[[event]]
+name = "Birthday Party"
+time = 12:00:00
+date = 2024-02-27
+
+[[event]]
+name = "Weekly Meeting"
+time = 14:00:00
